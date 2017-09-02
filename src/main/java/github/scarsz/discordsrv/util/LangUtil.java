@@ -48,7 +48,7 @@ public class LangUtil {
         EN("en", "English"),
         DE("de", "German"),
         JA("ja", "Japanese");
-        FR("ja", "French");
+        FR("FR", "French");
 
         @Getter final String code;
         @Getter final String name;
